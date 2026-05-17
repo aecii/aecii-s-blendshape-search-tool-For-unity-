@@ -16,7 +16,8 @@ And then open it via Window → aecii's Blendshape Search tool.
 Drag the Tab where ever you want it. 
 
 
-<img width="879" height="1304" alt="image" src="https://github.com/user-attachments/assets/e5da01cb-4d16-4d04-9308-03f44df99b01" />
+<img width="498" height="991" alt="image" src="https://github.com/user-attachments/assets/1e5ba582-4cfa-40ba-a789-bc6fb99ca823" />
+
 
 <img width="495" height="977" alt="image" src="https://github.com/user-attachments/assets/52de2dd9-6f48-4a4b-a6e9-3a29dc1586c9" />
 

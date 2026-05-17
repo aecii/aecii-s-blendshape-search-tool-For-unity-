@@ -18,7 +18,7 @@ Drag the Tab where ever you want it.
 
 <img width="879" height="1304" alt="image" src="https://github.com/user-attachments/assets/e5da01cb-4d16-4d04-9308-03f44df99b01" />
 
-<img width="898" height="1279" alt="image" src="https://github.com/user-attachments/assets/e1d0eabc-5b65-4115-b967-7de41ad15c43" />
+<img width="495" height="977" alt="image" src="https://github.com/user-attachments/assets/52de2dd9-6f48-4a4b-a6e9-3a29dc1586c9" />
 
 
 Let me know if you have issues or think of a feature to add. 
